@@ -1,0 +1,10 @@
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\bin\Debug\CalculateAvarageDestopApp.exe.config
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\bin\Debug\CalculateAvarageDestopApp.exe
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\bin\Debug\CalculateAvarageDestopApp.pdb
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\obj\Debug\CalculateAvarageDestopApp.csproj.AssemblyReference.cache
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\obj\Debug\CalculateAvarageDestopApp.Form1.resources
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\obj\Debug\CalculateAvarageDestopApp.Properties.Resources.resources
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\obj\Debug\CalculateAvarageDestopApp.csproj.GenerateResource.cache
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\obj\Debug\CalculateAvarageDestopApp.csproj.CoreCompileInputs.cache
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\obj\Debug\CalculateAvarageDestopApp.exe
+C:\GitHub Project\C#\CalculateAverageDestopApp\CalculateAvarageDestopApp\CalculateAvarageDestopApp\obj\Debug\CalculateAvarageDestopApp.pdb
